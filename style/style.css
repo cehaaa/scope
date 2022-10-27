@@ -39,7 +39,7 @@ body {
 	height: 400px;
 	border: 1px solid black;
 	position: relative;
-	overflow: hidden;
+	/* overflow: hidden; */
 }
 
 .box .inner {
