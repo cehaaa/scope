@@ -1,4 +1,4 @@
-import "./../style/style.css";
+import "../style/style.css";
 
 import { box, inner, restart } from "./element";
 
